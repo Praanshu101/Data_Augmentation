@@ -6,3 +6,5 @@ In this repository, we apply data augmentation techniques to improve the perform
 
 - The original data is in the folders `cats` and `dogs`.
 - The new augmented data is in the folders `augmented_cats` and `augmented_dogs`.
+
+The model selected is: `microsoft/resnet-50`. The results on both datasets are compared and observations are noted.
